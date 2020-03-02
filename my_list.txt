@@ -1,0 +1,4 @@
+"bulbasoar"
+"charmander"
+"pikachu"
+"weedle" 
